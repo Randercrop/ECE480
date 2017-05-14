@@ -19,7 +19,6 @@ public class Player
     {
         nickname = nname;
         this.mainBoard = thisBoard;
-
     }
     public void playCard()
     {

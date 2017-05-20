@@ -1,8 +1,8 @@
 ﻿using UnityEngine;
 using System.Collections;
 using UnityEngine.UI;
-
-[CreateAssetMenu(fileName = "Cards/NewBlockCard", menuName = "BlockCard")]
+//Incomplete
+[CreateAssetMenu(fileName = "Cards/NewChocolateBunCard", menuName = "ChocolateBunCard")]
 public class BlockCard : ColoredCard {
     public override void OnPlay()
     {

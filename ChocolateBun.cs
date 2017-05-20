@@ -3,7 +3,7 @@ using System.Collections;
 using UnityEngine.UI;
 //Incomplete
 [CreateAssetMenu(fileName = "Cards/NewChocolateBunCard", menuName = "ChocolateBunCard")]
-public class BlockCard : ColoredCard {
+public class ChocolateBunCard : ColoredCard {
     public override void OnPlay()
     {
         
